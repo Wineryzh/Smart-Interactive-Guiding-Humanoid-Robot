@@ -1,0 +1,46 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# IDE settings
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+data/logs/
+
+# Large data files
+*.bag
+*.mp4
+*.avi
+*.mov
+*.zip
+*.rar
+*.7z
+*.h5
+*.hdf5
+*.npy
+*.npz
+
+# Secrets and API keys
+.env
+*.env
+config/*secret*
+config/*key*
+config/private_config.yaml
+
+# Temporary files
+tmp/
+temp/
