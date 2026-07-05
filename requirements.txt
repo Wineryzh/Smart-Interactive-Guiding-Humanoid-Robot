@@ -1,0 +1,10 @@
+numpy
+scipy
+pandas
+matplotlib
+opencv-python
+pyyaml
+requests
+flask
+fastapi
+uvicorn
